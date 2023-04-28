@@ -6,13 +6,13 @@ To run the simulation, you will need the following packages:
 This is an example of how to list things you need to use the software and how to install them.
 * numpy
 * matplotlib
-* Neuron
+* neuron
 
 You can install them using pip:
   ```sh
   pip install numpy numpy
   pip install numpy matplotlib
-  pip install numpy Neuron
+  pip install numpy neuron
   ```
   
 ## Usage
