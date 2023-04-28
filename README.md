@@ -7,6 +7,7 @@ This is an example of how to list things you need to use the software and how to
 * numpy
 * matplotlib
 * Neuron
+
 You can install them using pip:
   ```sh
   pip install numpy numpy
