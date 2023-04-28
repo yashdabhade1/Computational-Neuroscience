@@ -31,5 +31,7 @@ You can modify the simulation parameters by editing the constants in the second 
 
 You can also change the duration and time step of the simulation by modifying the **tmin, tmax**, and **dt** variables.
 
+In the second part we have made a secotion named Soma. You can modify the parameters like **delay** , **duration**, **amp** to simulate the Membrane Potential.
+
 ## License
 This code is released under the MIT License. See LICENSE.txt for details.
